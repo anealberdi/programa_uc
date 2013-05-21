@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="org.eclipse.cdt.core.default.config.1758903934">
+			<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.1758903934" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings">
+				<externalSettings containerId="org.coocox.ExternalSettings" factoryId="org.eclipse.cdt.core.extension.container.factory">
+					<externalSetting>
+						<entry flags="" kind="includePath" name="C:\apps\CoIDE\gcc\Sourcery G++ Lite\arm-none-eabi\include"/>
+						<entry flags="" kind="includePath" name="."/>
+						<entry flags="" kind="includePath" name="cmsisboot"/>
+						<entry flags="" kind="includePath" name="cmsis"/>
+						<entry flags="" kind="includePath" name="lm3slib/inc"/>
+						<entry flags="" kind="includePath" name="lm3slib"/>
+						<entry flags="" kind="includePath" name="lm3slib/driverlib"/>
+						<entry flags="" kind="includePath" name="C:\Users\Ane\rtsWS\utiles"/>
+						<entry flags="" kind="includePath" name="C:\Users\Ane\rtsWS\freeRTOS7_0_2\include"/>
+						<entry flags="" kind="includePath" name="C:\Users\Ane\rtsWS\freeRTOS7_0_2\MemMang"/>
+						<entry flags="" kind="includePath" name="C:\Users\Ane\rtsWS\freeRTOS7_0_2\portableGCC_ARM_CM3"/>
+						<entry flags="" kind="includePath" name="Headers"/>
+						<entry flags="" kind="macro" name="__GNUC__" value=""/>
+						<entry flags="" kind="macro" name="gcc" value=""/>
+						<entry flags="" kind="macro" name="LM3S8962" value=""/>
+					</externalSetting>
+				</externalSettings>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+			<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+			<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+				<pathentry kind="src" path=""/>
+				<pathentry include="C:/apps/CoIDE/gcc/Sourcery G++ Lite/arm-none-eabi/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2/cmsisboot" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2/cmsis" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2/lm3slib/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2/lm3slib" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2/lm3slib/driverlib" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Ane/rtsWS/utiles" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Ane/rtsWS/freeRTOS7_0_2/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Ane/rtsWS/freeRTOS7_0_2/MemMang" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Ane/rtsWS/freeRTOS7_0_2/portableGCC_ARM_CM3" kind="inc" path="" system="true"/>
+				<pathentry include="C:/apps/CoIDE/workspace/POPBL_infrarrojos_beta_2/Headers" kind="inc" path="" system="true"/>
+				<pathentry kind="mac" name="__GNUC__" path="" value=""/>
+				<pathentry kind="mac" name="gcc" path="" value=""/>
+				<pathentry kind="mac" name="LM3S8962" path="" value=""/>
+				<pathentry kind="out" path=""/>
+			</storageModule>
+		</cconfiguration>
+	</storageModule>
+</cproject>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.5.1 -O0 -nostartfiles -Map=POPBL_infrarrojos_beta_2.map -mcpu=cortex-m3 -mthumb -LC:\apps\CoIDE\workspace\POPBL_infrarrojos_beta_2 --gc-sections -TC:\apps\CoIDE\workspace\POPBL_infrarrojos_beta_2\link.ld -g">
+      <target file="POPBL_infrarrojos_beta_2.elf" lastModified="13ca422c8b3">
+         <source file="..\obj\Recepcion_Infrarrojos.o" lastModified="13ca422b9bd"/>
+         <source file="..\obj\pines.o" lastModified="13ca422ba0e"/>
+         <source file="..\obj\system_lm3s.o" lastModified="13ca422ba5e"/>
+         <source file="..\obj\core_cm3.o" lastModified="13ca422bad3"/>
+         <source file="..\obj\timer.o" lastModified="13ca422bb32"/>
+         <source file="..\obj\system_tick.o" lastModified="13ca422bb68"/>
+         <source file="..\obj\main.o" lastModified="13ca422bbdd"/>
+         <source file="..\obj\framebuffer.o" lastModified="13ca422bc6a"/>
+         <source file="..\obj\sysctl.o" lastModified="13ca422bd19"/>
+         <source file="..\obj\timers.o" lastModified="13ca422bd56"/>
+         <source file="..\obj\gpio.o" lastModified="13ca422be01"/>
+         <source file="..\obj\display.o" lastModified="13ca422be41"/>
+         <source file="..\obj\display_RIT.o" lastModified="13ca422be89"/>
+         <source file="..\obj\tasks.o" lastModified="13ca422bf2e"/>
+         <source file="..\obj\egoera_makina.o" lastModified="13ca422bf81"/>
+         <source file="..\obj\interrupt.o" lastModified="13ca422bfcf"/>
+         <source file="..\obj\rit128x96x4.o" lastModified="13ca422c06a"/>
+         <source file="..\obj\keypad.o" lastModified="13ca422c0bb"/>
+         <source file="..\obj\startup_lm3s.o" lastModified="13ca422c0f3"/>
+         <source file="..\obj\list.o" lastModified="13ca422c148"/>
+         <source file="..\obj\syscalls.o" lastModified="13ca422c1a1"/>
+         <source file="..\obj\ssi.o" lastModified="13ca422c1f5"/>
+         <source file="..\obj\queue.o" lastModified="13ca422c278"/>
+         <source file="..\obj\port.o" lastModified="13ca422c2c0"/>
+         <source file="..\obj\croutine.o" lastModified="13ca422c317"/>
+         <source file="..\obj\cpu.o" lastModified="13ca422c354"/>
+         <source file="..\obj\console.o" lastModified="13ca422c3a9"/>
+         <source file="..\obj\systick.o" lastModified="13ca422c3f0"/>
+         <source file="..\obj\heap_1.o" lastModified="13ca422c441"/>
+         <source file="..\obj\Task_Idle.o" lastModified="13ca422c472"/>
+         <source file="..\obj\clock.o" lastModified="13ca422c4ab"/>
+         <source file="..\obj\Task_Recibir_Infrarrojos.o" lastModified="13ca422c514"/>
+      </target>
+   </processor>
+</history>

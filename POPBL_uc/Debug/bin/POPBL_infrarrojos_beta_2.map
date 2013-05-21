@@ -1,0 +1,1704 @@
+Archive member included because of file (symbol)
+
+c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+                              ..\obj\queue.o (memcpy)
+c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+                              ..\obj\tasks.o (memset)
+c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+                              ..\obj\framebuffer.o (strlen)
+c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strncpy.o)
+                              ..\obj\tasks.o (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_ul_xTimeTimerOn   0x4               ..\obj\Recepcion_Infrarrojos.o
+g_ul_xTimeTimerOff1
+                    0x4               ..\obj\Recepcion_Infrarrojos.o
+consoleImage        0x108             ..\obj\console.o
+g_display_elements  0x2d0             ..\obj\framebuffer.o
+g_xTimeFlanco       0x4               ..\obj\Recepcion_Infrarrojos.o
+str                 0x20              ..\obj\Recepcion_Infrarrojos.o
+xHandle_Task_Recibir_Infrarrojos
+                    0x4               ..\obj\main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\Recepcion_Infrarrojos.o
+ .text          0x00000000        0x0 ..\obj\pines.o
+ .data          0x00000000        0x0 ..\obj\pines.o
+ .bss           0x00000000        0x0 ..\obj\pines.o
+ .text          0x00000000        0x0 ..\obj\system_lm3s.o
+ .bss           0x00000000        0x0 ..\obj\system_lm3s.o
+ .text          0x00000000        0x0 ..\obj\core_cm3.o
+ .data          0x00000000        0x0 ..\obj\core_cm3.o
+ .bss           0x00000000        0x0 ..\obj\core_cm3.o
+ .text.__get_PSP
+                0x00000000       0x10 ..\obj\core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 ..\obj\core_cm3.o
+ .text.__get_MSP
+                0x00000000       0x10 ..\obj\core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x8 ..\obj\core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000       0x20 ..\obj\core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000       0x18 ..\obj\core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000       0x20 ..\obj\core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000       0x18 ..\obj\core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000       0x20 ..\obj\core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000       0x18 ..\obj\core_cm3.o
+ .text.__get_CONTROL
+                0x00000000       0x20 ..\obj\core_cm3.o
+ .text.__set_CONTROL
+                0x00000000       0x18 ..\obj\core_cm3.o
+ .text.__REV    0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__REV16  0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__REVSH  0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__RBIT   0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__LDREXB
+                0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__LDREXH
+                0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__LDREXW
+                0x00000000       0x24 ..\obj\core_cm3.o
+ .text.__STREXB
+                0x00000000       0x2c ..\obj\core_cm3.o
+ .text.__STREXH
+                0x00000000       0x2c ..\obj\core_cm3.o
+ .text.__STREXW
+                0x00000000       0x28 ..\obj\core_cm3.o
+ .text          0x00000000        0x0 ..\obj\timer.o
+ .data          0x00000000        0x0 ..\obj\timer.o
+ .bss           0x00000000        0x0 ..\obj\timer.o
+ .text.TimerEnable
+                0x00000000       0x34 ..\obj\timer.o
+ .text.TimerDisable
+                0x00000000       0x38 ..\obj\timer.o
+ .text.TimerConfigure
+                0x00000000       0x58 ..\obj\timer.o
+ .text.TimerControlLevel
+                0x00000000       0x58 ..\obj\timer.o
+ .text.TimerControlTrigger
+                0x00000000       0x58 ..\obj\timer.o
+ .text.TimerControlEvent
+                0x00000000       0x44 ..\obj\timer.o
+ .text.TimerControlStall
+                0x00000000       0x58 ..\obj\timer.o
+ .text.TimerRTCEnable
+                0x00000000       0x28 ..\obj\timer.o
+ .text.TimerRTCDisable
+                0x00000000       0x28 ..\obj\timer.o
+ .text.TimerPrescaleSet
+                0x00000000       0x40 ..\obj\timer.o
+ .text.TimerPrescaleGet
+                0x00000000       0x30 ..\obj\timer.o
+ .text.TimerLoadSet
+                0x00000000       0x40 ..\obj\timer.o
+ .text.TimerLoadGet
+                0x00000000       0x30 ..\obj\timer.o
+ .text.TimerValueGet
+                0x00000000       0x30 ..\obj\timer.o
+ .text.TimerMatchSet
+                0x00000000       0x40 ..\obj\timer.o
+ .text.TimerMatchGet
+                0x00000000       0x30 ..\obj\timer.o
+ .text.TimerIntRegister
+                0x00000000       0x94 ..\obj\timer.o
+ .text.TimerIntUnregister
+                0x00000000       0x8c ..\obj\timer.o
+ .text.TimerIntEnable
+                0x00000000       0x2c ..\obj\timer.o
+ .text.TimerIntDisable
+                0x00000000       0x30 ..\obj\timer.o
+ .text.TimerIntStatus
+                0x00000000       0x30 ..\obj\timer.o
+ .text.TimerIntClear
+                0x00000000       0x20 ..\obj\timer.o
+ .text.TimerQuiesce
+                0x00000000       0xf0 ..\obj\timer.o
+ .text          0x00000000        0x0 ..\obj\system_tick.o
+ .data          0x00000000        0x0 ..\obj\system_tick.o
+ .bss           0x00000000        0x0 ..\obj\system_tick.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .bss           0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\framebuffer.o
+ .data          0x00000000        0x0 ..\obj\framebuffer.o
+ .text.FRAME_BUFFER_insert_image
+                0x00000000      0x16c ..\obj\framebuffer.o
+ .text.FRAME_BUFFER_actualiza_posicion_elemento
+                0x00000000       0xd8 ..\obj\framebuffer.o
+ .text.FRAME_BUFFER_delete_element
+                0x00000000      0x290 ..\obj\framebuffer.o
+ .text          0x00000000        0x0 ..\obj\sysctl.o
+ .data          0x00000000        0x0 ..\obj\sysctl.o
+ .bss           0x00000000        0x0 ..\obj\sysctl.o
+ .text.SysCtlSRAMSizeGet
+                0x00000000       0x28 ..\obj\sysctl.o
+ .text.SysCtlFlashSizeGet
+                0x00000000       0x28 ..\obj\sysctl.o
+ .text.SysCtlPinPresent
+                0x00000000       0x34 ..\obj\sysctl.o
+ .text.SysCtlPeripheralPresent
+                0x00000000       0x7c ..\obj\sysctl.o
+ .text.SysCtlPeripheralReset
+                0x00000000       0xb8 ..\obj\sysctl.o
+ .text.SysCtlPeripheralDisable
+                0x00000000       0x5c ..\obj\sysctl.o
+ .text.SysCtlPeripheralSleepEnable
+                0x00000000       0x58 ..\obj\sysctl.o
+ .text.SysCtlPeripheralSleepDisable
+                0x00000000       0x5c ..\obj\sysctl.o
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00000000       0x58 ..\obj\sysctl.o
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00000000       0x5c ..\obj\sysctl.o
+ .text.SysCtlPeripheralClockGating
+                0x00000000       0x4c ..\obj\sysctl.o
+ .text.SysCtlIntRegister
+                0x00000000       0x24 ..\obj\sysctl.o
+ .text.SysCtlIntUnregister
+                0x00000000       0x18 ..\obj\sysctl.o
+ .text.SysCtlIntEnable
+                0x00000000       0x2c ..\obj\sysctl.o
+ .text.SysCtlIntDisable
+                0x00000000       0x30 ..\obj\sysctl.o
+ .text.SysCtlIntClear
+                0x00000000       0x20 ..\obj\sysctl.o
+ .text.SysCtlIntStatus
+                0x00000000       0x34 ..\obj\sysctl.o
+ .text.SysCtlLDOSet
+                0x00000000       0x20 ..\obj\sysctl.o
+ .text.SysCtlLDOGet
+                0x00000000       0x18 ..\obj\sysctl.o
+ .text.SysCtlLDOConfigSet
+                0x00000000       0x20 ..\obj\sysctl.o
+ .text.SysCtlReset
+                0x00000000       0x18 ..\obj\sysctl.o
+ .text.SysCtlSleep
+                0x00000000        0xc ..\obj\sysctl.o
+ .text.SysCtlDeepSleep
+                0x00000000       0x3c ..\obj\sysctl.o
+ .text.SysCtlResetCauseGet
+                0x00000000       0x18 ..\obj\sysctl.o
+ .text.SysCtlResetCauseClear
+                0x00000000       0x30 ..\obj\sysctl.o
+ .text.SysCtlBrownOutConfigSet
+                0x00000000       0x2c ..\obj\sysctl.o
+ .text.SysCtlPWMClockSet
+                0x00000000       0x30 ..\obj\sysctl.o
+ .text.SysCtlPWMClockGet
+                0x00000000       0x34 ..\obj\sysctl.o
+ .text.SysCtlADCSpeedSet
+                0x00000000       0x50 ..\obj\sysctl.o
+ .text.SysCtlADCSpeedGet
+                0x00000000       0x1c ..\obj\sysctl.o
+ .text.SysCtlIOSCVerificationSet
+                0x00000000       0x4c ..\obj\sysctl.o
+ .text.SysCtlMOSCVerificationSet
+                0x00000000       0x4c ..\obj\sysctl.o
+ .text.SysCtlPLLVerificationSet
+                0x00000000       0x4c ..\obj\sysctl.o
+ .text.SysCtlClkVerificationClear
+                0x00000000       0x28 ..\obj\sysctl.o
+ .text.SysCtlGPIOAHBEnable
+                0x00000000       0x34 ..\obj\sysctl.o
+ .text.SysCtlGPIOAHBDisable
+                0x00000000       0x38 ..\obj\sysctl.o
+ .text.SysCtlUSBPLLEnable
+                0x00000000       0x24 ..\obj\sysctl.o
+ .text.SysCtlUSBPLLDisable
+                0x00000000       0x24 ..\obj\sysctl.o
+ .text.SysCtlI2SMClkSet
+                0x00000000      0x1c0 ..\obj\sysctl.o
+ .text          0x00000000        0x0 ..\obj\timers.o
+ .data          0x00000000        0x0 ..\obj\timers.o
+ .bss           0x00000000        0x0 ..\obj\timers.o
+ .text          0x00000000        0x0 ..\obj\gpio.o
+ .data          0x00000000        0x0 ..\obj\gpio.o
+ .bss           0x00000000        0x0 ..\obj\gpio.o
+ .rodata        0x00000000       0x48 ..\obj\gpio.o
+ .text.GPIOGetIntNumber
+                0x00000000      0x198 ..\obj\gpio.o
+ .text.GPIODirModeGet
+                0x00000000       0x64 ..\obj\gpio.o
+ .text.GPIOIntTypeGet
+                0x00000000       0x8c ..\obj\gpio.o
+ .text.GPIOPadConfigGet
+                0x00000000      0x148 ..\obj\gpio.o
+ .text.GPIOPinIntDisable
+                0x00000000       0x30 ..\obj\gpio.o
+ .text.GPIOPortIntRegister
+                0x00000000       0x2c ..\obj\gpio.o
+ .text.GPIOPortIntUnregister
+                0x00000000       0x28 ..\obj\gpio.o
+ .text.GPIOPinTypeADC
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeCAN
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeComparator
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeI2C
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypePWM
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeQEI
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeTimer
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeUART
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeUSBDigital
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeUSBAnalog
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeI2S
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinTypeEthernetLED
+                0x00000000       0x34 ..\obj\gpio.o
+ .text.GPIOPinConfigure
+                0x00000000       0xb0 ..\obj\gpio.o
+ .text          0x00000000        0x0 ..\obj\display.o
+ .data          0x00000000        0x0 ..\obj\display.o
+ .bss           0x00000000        0x0 ..\obj\display.o
+ .text          0x00000000        0x0 ..\obj\display_RIT.o
+ .data          0x00000000        0x0 ..\obj\display_RIT.o
+ .bss           0x00000000        0x0 ..\obj\display_RIT.o
+ .text          0x00000000        0x0 ..\obj\tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xc0 ..\obj\tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x20 ..\obj\tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x38 ..\obj\tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 ..\obj\tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x78 ..\obj\tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0xc4 ..\obj\tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x30 ..\obj\tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0xa4 ..\obj\tasks.o
+ .text.vTaskMissedYield
+                0x00000000       0x18 ..\obj\tasks.o
+ .text          0x00000000        0x0 ..\obj\egoera_makina.o
+ .data          0x00000000        0x0 ..\obj\egoera_makina.o
+ .text          0x00000000        0x0 ..\obj\interrupt.o
+ .data          0x00000000        0x0 ..\obj\interrupt.o
+ .bss           0x00000000        0x0 ..\obj\interrupt.o
+ .rodata        0x00000000       0x68 ..\obj\interrupt.o
+ .text.IntDefaultHandler
+                0x00000000        0x8 ..\obj\interrupt.o
+ vtable         0x00000000      0x118 ..\obj\interrupt.o
+ .text.IntMasterEnable
+                0x00000000       0x10 ..\obj\interrupt.o
+ .text.IntMasterDisable
+                0x00000000       0x10 ..\obj\interrupt.o
+ .text.IntRegister
+                0x00000000       0x8c ..\obj\interrupt.o
+ .text.IntUnregister
+                0x00000000       0x28 ..\obj\interrupt.o
+ .text.IntPriorityGroupingSet
+                0x00000000       0x34 ..\obj\interrupt.o
+ .text.IntPriorityGroupingGet
+                0x00000000       0x54 ..\obj\interrupt.o
+ .text.IntPrioritySet
+                0x00000000       0x78 ..\obj\interrupt.o
+ .text.IntPriorityGet
+                0x00000000       0x3c ..\obj\interrupt.o
+ .text.IntDisable
+                0x00000000       0xd8 ..\obj\interrupt.o
+ .text          0x00000000        0x0 ..\obj\rit128x96x4.o
+ .data          0x00000000        0x0 ..\obj\rit128x96x4.o
+ .text.RIT128x96x4Disable
+                0x00000000       0xa0 ..\obj\rit128x96x4.o
+ .text.RIT128x96x4DisplayOn
+                0x00000000       0x60 ..\obj\rit128x96x4.o
+ .text.RIT128x96x4DisplayOff
+                0x00000000       0x18 ..\obj\rit128x96x4.o
+ .text          0x00000000        0x0 ..\obj\keypad.o
+ .data          0x00000000        0x4 ..\obj\keypad.o
+ .bss           0x00000000        0x0 ..\obj\keypad.o
+ .text          0x00000000        0x0 ..\obj\startup_lm3s.o
+ .data          0x00000000        0x0 ..\obj\startup_lm3s.o
+ .bss           0x00000000        0x0 ..\obj\startup_lm3s.o
+ .text          0x00000000        0x0 ..\obj\list.o
+ .data          0x00000000        0x0 ..\obj\list.o
+ .bss           0x00000000        0x0 ..\obj\list.o
+ .text          0x00000000        0x0 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ .bss           0x00000000        0x4 ..\obj\syscalls.o
+ .text._sbrk    0x00000000       0x5c ..\obj\syscalls.o
+ .text.link     0x00000000       0x1c ..\obj\syscalls.o
+ .text._close   0x00000000       0x18 ..\obj\syscalls.o
+ .text._fstat   0x00000000       0x24 ..\obj\syscalls.o
+ .text._isatty  0x00000000       0x18 ..\obj\syscalls.o
+ .text._lseek   0x00000000       0x1c ..\obj\syscalls.o
+ .text._read    0x00000000       0x1c ..\obj\syscalls.o
+ .text._write   0x00000000       0x1c ..\obj\syscalls.o
+ .text.abort    0x00000000        0x8 ..\obj\syscalls.o
+ .text          0x00000000        0x0 ..\obj\ssi.o
+ .data          0x00000000        0x0 ..\obj\ssi.o
+ .bss           0x00000000        0x0 ..\obj\ssi.o
+ .text.SSIIntRegister
+                0x00000000       0x3c ..\obj\ssi.o
+ .text.SSIIntUnregister
+                0x00000000       0x38 ..\obj\ssi.o
+ .text.SSIIntEnable
+                0x00000000       0x2c ..\obj\ssi.o
+ .text.SSIIntDisable
+                0x00000000       0x30 ..\obj\ssi.o
+ .text.SSIIntStatus
+                0x00000000       0x30 ..\obj\ssi.o
+ .text.SSIIntClear
+                0x00000000       0x20 ..\obj\ssi.o
+ .text.SSIDataPutNonBlocking
+                0x00000000       0x3c ..\obj\ssi.o
+ .text.SSIDataGet
+                0x00000000       0x34 ..\obj\ssi.o
+ .text.SSIDataGetNonBlocking
+                0x00000000       0x3c ..\obj\ssi.o
+ .text.SSIDMAEnable
+                0x00000000       0x2c ..\obj\ssi.o
+ .text.SSIDMADisable
+                0x00000000       0x30 ..\obj\ssi.o
+ .text          0x00000000        0x0 ..\obj\queue.o
+ .data          0x00000000        0x0 ..\obj\queue.o
+ .bss           0x00000000        0x0 ..\obj\queue.o
+ .text.xQueueCreate
+                0x00000000       0xd0 ..\obj\queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x124 ..\obj\queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0x90 ..\obj\queue.o
+ .text.xQueueGenericReceive
+                0x00000000      0x15c ..\obj\queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0x94 ..\obj\queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x24 ..\obj\queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x1c ..\obj\queue.o
+ .text.vQueueDelete
+                0x00000000       0x20 ..\obj\queue.o
+ .text.prvCopyDataToQueue
+                0x00000000       0xa8 ..\obj\queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0x50 ..\obj\queue.o
+ .text.prvUnlockQueue
+                0x00000000       0xa0 ..\obj\queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x2c ..\obj\queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x24 ..\obj\queue.o
+ .text.prvIsQueueFull
+                0x00000000       0x30 ..\obj\queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x2c ..\obj\queue.o
+ .text          0x00000000        0x0 ..\obj\port.o
+ .bss           0x00000000        0x0 ..\obj\port.o
+ .rodata        0x00000000        0x4 ..\obj\port.o
+ .text.vPortEndScheduler
+                0x00000000        0xc ..\obj\port.o
+ .text          0x00000000        0x0 ..\obj\croutine.o
+ .data          0x00000000        0x0 ..\obj\croutine.o
+ .bss           0x00000000       0x80 ..\obj\croutine.o
+ .text.xCoRoutineCreate
+                0x00000000       0xf4 ..\obj\croutine.o
+ .text.vCoRoutineAddToDelayedList
+                0x00000000       0xb4 ..\obj\croutine.o
+ .text.prvCheckPendingReadyList
+                0x00000000       0xa0 ..\obj\croutine.o
+ .text.prvCheckDelayedList
+                0x00000000      0x170 ..\obj\croutine.o
+ .text.vCoRoutineSchedule
+                0x00000000       0xf0 ..\obj\croutine.o
+ .text.prvInitialiseCoRoutineLists
+                0x00000000       0x8c ..\obj\croutine.o
+ .text.xCoRoutineRemoveFromEventList
+                0x00000000       0x60 ..\obj\croutine.o
+ .text          0x00000000        0x0 ..\obj\cpu.o
+ .data          0x00000000        0x0 ..\obj\cpu.o
+ .bss           0x00000000        0x0 ..\obj\cpu.o
+ .text.CPUcpsid
+                0x00000000        0xc ..\obj\cpu.o
+ .text.CPUcpsie
+                0x00000000        0xc ..\obj\cpu.o
+ .text.CPUwfi   0x00000000        0x4 ..\obj\cpu.o
+ .text          0x00000000        0x0 ..\obj\console.o
+ .data          0x00000000        0x0 ..\obj\console.o
+ .bss           0x00000000        0x0 ..\obj\console.o
+ .text.consolePrintStr
+                0x00000000       0x58 ..\obj\console.o
+ .text.refreshConsole
+                0x00000000       0x50 ..\obj\console.o
+ .text.refreshConsoleLine
+                0x00000000       0x3c ..\obj\console.o
+ .text.initConsole
+                0x00000000       0x84 ..\obj\console.o
+ .text.eraseConsoleLine
+                0x00000000       0x48 ..\obj\console.o
+ COMMON         0x00000000      0x108 ..\obj\console.o
+ .text          0x00000000        0x0 ..\obj\systick.o
+ .data          0x00000000        0x0 ..\obj\systick.o
+ .bss           0x00000000        0x0 ..\obj\systick.o
+ .text.SysTickEnable
+                0x00000000       0x24 ..\obj\systick.o
+ .text.SysTickDisable
+                0x00000000       0x24 ..\obj\systick.o
+ .text.SysTickIntRegister
+                0x00000000       0x34 ..\obj\systick.o
+ .text.SysTickIntUnregister
+                0x00000000       0x28 ..\obj\systick.o
+ .text.SysTickIntEnable
+                0x00000000       0x24 ..\obj\systick.o
+ .text.SysTickIntDisable
+                0x00000000       0x24 ..\obj\systick.o
+ .text.SysTickPeriodSet
+                0x00000000       0x24 ..\obj\systick.o
+ .text.SysTickPeriodGet
+                0x00000000       0x1c ..\obj\systick.o
+ .text          0x00000000        0x0 ..\obj\heap_1.o
+ .data          0x00000000        0x0 ..\obj\heap_1.o
+ .text.vPortInitialiseBlocks
+                0x00000000       0x18 ..\obj\heap_1.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x1c ..\obj\heap_1.o
+ .text          0x00000000        0x0 ..\obj\Task_Idle.o
+ .data          0x00000000        0x0 ..\obj\Task_Idle.o
+ .bss           0x00000000        0x0 ..\obj\Task_Idle.o
+ .text          0x00000000        0x0 ..\obj\clock.o
+ .data          0x00000000        0x0 ..\obj\clock.o
+ .bss           0x00000000        0x0 ..\obj\clock.o
+ .text          0x00000000        0x0 ..\obj\Task_Recibir_Infrarrojos.o
+ .data          0x00000000        0x0 ..\obj\Task_Recibir_Infrarrojos.o
+ .text          0x00000000      0x150 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strncpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00040000         xr
+ram              0x20000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20010000                _eram = 0x20010000
+
+.text           0x00000000     0x49d4
+ *(.isr_vector .isr_vector.*)
+ .isr_vector    0x00000000      0x100 ..\obj\startup_lm3s.o
+                0x00000000                g_pfnVectors
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text.RECECPCION_INFRARROJOS_fev_flanco_positivo
+                0x00000100       0x1c ..\obj\Recepcion_Infrarrojos.o
+                0x00000100                RECECPCION_INFRARROJOS_fev_flanco_positivo
+ .text.RECECPCION_INFRARROJOS_fev_flanco_t_corto_min
+                0x0000011c       0x5c ..\obj\Recepcion_Infrarrojos.o
+                0x0000011c                RECECPCION_INFRARROJOS_fev_flanco_t_corto_min
+ .text.RECECPCION_INFRARROJOS_fev_flanco_positivo_t_corto_ok
+                0x00000178       0xa4 ..\obj\Recepcion_Infrarrojos.o
+                0x00000178                RECECPCION_INFRARROJOS_fev_flanco_positivo_t_corto_ok
+ .text.RECECPCION_INFRARROJOS_fev_flanco_t_largo_min
+                0x0000021c       0x5c ..\obj\Recepcion_Infrarrojos.o
+                0x0000021c                RECECPCION_INFRARROJOS_fev_flanco_t_largo_min
+ .text.RECECPCION_INFRARROJOS_fev_flanco_positivo_t_largo_ok
+                0x00000278       0xa4 ..\obj\Recepcion_Infrarrojos.o
+                0x00000278                RECECPCION_INFRARROJOS_fev_flanco_positivo_t_largo_ok
+ .text.RECECPCION_INFRARROJOS_fev_flanco_negativo
+                0x0000031c       0x1c ..\obj\Recepcion_Infrarrojos.o
+                0x0000031c                RECECPCION_INFRARROJOS_fev_flanco_negativo
+ .text.RECECPCION_INFRARROJOS_fev_flanco_negativo_t_corto_ok
+                0x00000338       0xa4 ..\obj\Recepcion_Infrarrojos.o
+                0x00000338                RECECPCION_INFRARROJOS_fev_flanco_negativo_t_corto_ok
+ .text.RECECPCION_INFRARROJOS_fev_flanco_negativo_t_largo_ok
+                0x000003dc       0xa4 ..\obj\Recepcion_Infrarrojos.o
+                0x000003dc                RECECPCION_INFRARROJOS_fev_flanco_negativo_t_largo_ok
+ .text.RECECPCION_INFRARROJOS_fev_izquierda_pulsado
+                0x00000480       0x30 ..\obj\Recepcion_Infrarrojos.o
+                0x00000480                RECECPCION_INFRARROJOS_fev_izquierda_pulsado
+ .text.RECECPCION_INFRARROJOS_fev_derecha_pulsado
+                0x000004b0       0x30 ..\obj\Recepcion_Infrarrojos.o
+                0x000004b0                RECECPCION_INFRARROJOS_fev_derecha_pulsado
+ .text.RECECPCION_INFRARROJOS_fac_leer_on
+                0x000004e0       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x000004e0                RECECPCION_INFRARROJOS_fac_leer_on
+ .text.RECECPCION_INFRARROJOS_fac_leer_off
+                0x000004f8       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x000004f8                RECECPCION_INFRARROJOS_fac_leer_off
+ .text.RECECPCION_INFRARROJOS_fac_leer_on_2
+                0x00000510       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000510                RECECPCION_INFRARROJOS_fac_leer_on_2
+ .text.RECECPCION_INFRARROJOS_fac_leer_off_2
+                0x00000528       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000528                RECECPCION_INFRARROJOS_fac_leer_off_2
+ .text.RECECPCION_INFRARROJOS_fac_leer_on_4
+                0x00000540       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000540                RECECPCION_INFRARROJOS_fac_leer_on_4
+ .text.RECECPCION_INFRARROJOS_fac_leer_off_3
+                0x00000558       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000558                RECECPCION_INFRARROJOS_fac_leer_off_3
+ .text.RECECPCION_INFRARROJOS_fac_leer_on_3
+                0x00000570       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000570                RECECPCION_INFRARROJOS_fac_leer_on_3
+ .text.RECECPCION_INFRARROJOS_fac_leer_off_4
+                0x00000588       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000588                RECECPCION_INFRARROJOS_fac_leer_off_4
+ .text.RECECPCION_INFRARROJOS_fac_activar
+                0x000005a0       0x10 ..\obj\Recepcion_Infrarrojos.o
+                0x000005a0                RECECPCION_INFRARROJOS_fac_activar
+ .text.RECECPCION_INFRARROJOS_fac_desactivar
+                0x000005b0       0x20 ..\obj\Recepcion_Infrarrojos.o
+                0x000005b0                RECECPCION_INFRARROJOS_fac_desactivar
+ .text.RECECPCION_INFRARROJOS_fev_t_corto
+                0x000005d0       0x5c ..\obj\Recepcion_Infrarrojos.o
+                0x000005d0                RECECPCION_INFRARROJOS_fev_t_corto
+ .text.RECECPCION_INFRARROJOS_fev_t_largo
+                0x0000062c       0x5c ..\obj\Recepcion_Infrarrojos.o
+                0x0000062c                RECECPCION_INFRARROJOS_fev_t_largo
+ .text.RECECPCION_INFRARROJOS_fac_cancelar
+                0x00000688       0x20 ..\obj\Recepcion_Infrarrojos.o
+                0x00000688                RECECPCION_INFRARROJOS_fac_cancelar
+ .text.RECEPCION_INFRARROJOS_fac_borrar_inter
+                0x000006a8       0x28 ..\obj\Recepcion_Infrarrojos.o
+                0x000006a8                RECEPCION_INFRARROJOS_fac_borrar_inter
+ .text.RECECPCION_INFRARROJOS_fac_preguntar
+                0x000006d0        0xc ..\obj\Recepcion_Infrarrojos.o
+                0x000006d0                RECECPCION_INFRARROJOS_fac_preguntar
+ .text.RECEPCION_INFRARROJOS_coger_tiempo_actual
+                0x000006dc       0x34 ..\obj\Recepcion_Infrarrojos.o
+                0x000006dc                RECEPCION_INFRARROJOS_coger_tiempo_actual
+ .text.RECEPCION_INFRARROJOS_dormir_tarea_190ms
+                0x00000710       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000710                RECEPCION_INFRARROJOS_dormir_tarea_190ms
+ .text.RECEPCION_INFRARROJOS_dormir_tarea_90ms
+                0x00000728       0x18 ..\obj\Recepcion_Infrarrojos.o
+                0x00000728                RECEPCION_INFRARROJOS_dormir_tarea_90ms
+ .text.RECEPCION_INFRARROJOS_mirar_flanco_positivo
+                0x00000740       0x30 ..\obj\Recepcion_Infrarrojos.o
+                0x00000740                RECEPCION_INFRARROJOS_mirar_flanco_positivo
+ .text.RECEPCION_INFRARROJOS_mirar_flanco_negativo
+                0x00000770       0x30 ..\obj\Recepcion_Infrarrojos.o
+                0x00000770                RECEPCION_INFRARROJOS_mirar_flanco_negativo
+ .text.PINES_inicializar_puerto_b_pines_0_1
+                0x000007a0       0x3c ..\obj\pines.o
+                0x000007a0                PINES_inicializar_puerto_b_pines_0_1
+ .text.PINES_inicializar_int_puerto_b_pines_0_1
+                0x000007dc       0x34 ..\obj\pines.o
+                0x000007dc                PINES_inicializar_int_puerto_b_pines_0_1
+ .text.PortBInterruptHandler
+                0x00000810      0x130 ..\obj\pines.o
+                0x00000810                PortBInterruptHandler
+ .text.SystemInit
+                0x00000940      0x238 ..\obj\system_lm3s.o
+                0x00000940                SystemInit
+ .text.getOscClk
+                0x00000b78      0x15c ..\obj\system_lm3s.o
+ .text.SYSTEM_TICK_coger_valor_ticks
+                0x00000cd4       0x20 ..\obj\system_tick.o
+                0x00000cd4                SYSTEM_TICK_coger_valor_ticks
+ .text.main     0x00000cf4       0xa0 ..\obj\main.o
+                0x00000cf4                main
+ .text.FRAME_BUFFER_init
+                0x00000d94      0x10c ..\obj\framebuffer.o
+                0x00000d94                FRAME_BUFFER_init
+ .text.FRAME_BUFFER_insert_text
+                0x00000ea0      0x16c ..\obj\framebuffer.o
+                0x00000ea0                FRAME_BUFFER_insert_text
+ .text.FRAME_BUFFER_change_text
+                0x0000100c       0x58 ..\obj\framebuffer.o
+                0x0000100c                FRAME_BUFFER_change_text
+ .text.FRAME_BUFFER_write_to_display
+                0x00001064      0x2e8 ..\obj\framebuffer.o
+                0x00001064                FRAME_BUFFER_write_to_display
+ .text.SysCtlPeripheralEnable
+                0x0000134c       0x58 ..\obj\sysctl.o
+                0x0000134c                SysCtlPeripheralEnable
+ .text.SysCtlDelay
+                0x000013a4        0x8 ..\obj\sysctl.o
+                0x000013a4                SysCtlDelay
+ .text.SysCtlClockSet
+                0x000013ac      0x290 ..\obj\sysctl.o
+                0x000013ac                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x0000163c      0x384 ..\obj\sysctl.o
+                0x0000163c                SysCtlClockGet
+ .text.GPIODirModeSet
+                0x000019c0       0x88 ..\obj\gpio.o
+                0x000019c0                GPIODirModeSet
+ .text.GPIOIntTypeSet
+                0x00001a48       0xd4 ..\obj\gpio.o
+                0x00001a48                GPIOIntTypeSet
+ .text.GPIOPadConfigSet
+                0x00001b1c      0x230 ..\obj\gpio.o
+                0x00001b1c                GPIOPadConfigSet
+ .text.GPIOPinIntEnable
+                0x00001d4c       0x2c ..\obj\gpio.o
+                0x00001d4c                GPIOPinIntEnable
+ .text.GPIOPinIntStatus
+                0x00001d78       0x34 ..\obj\gpio.o
+                0x00001d78                GPIOPinIntStatus
+ .text.GPIOPinIntClear
+                0x00001dac       0x24 ..\obj\gpio.o
+                0x00001dac                GPIOPinIntClear
+ .text.GPIOPinRead
+                0x00001dd0       0x28 ..\obj\gpio.o
+                0x00001dd0                GPIOPinRead
+ .text.GPIOPinWrite
+                0x00001df8       0x2c ..\obj\gpio.o
+                0x00001df8                GPIOPinWrite
+ .text.GPIOPinTypeGPIOInput
+                0x00001e24       0x34 ..\obj\gpio.o
+                0x00001e24                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x00001e58       0x34 ..\obj\gpio.o
+                0x00001e58                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeSSI
+                0x00001e8c       0x34 ..\obj\gpio.o
+                0x00001e8c                GPIOPinTypeSSI
+ .text.DISPLAY_inicializar
+                0x00001ec0       0x74 ..\obj\display.o
+                0x00001ec0                DISPLAY_inicializar
+ .text.DISPLAY_indicar_estado
+                0x00001f34      0x10c ..\obj\display.o
+                0x00001f34                DISPLAY_indicar_estado
+ .text.DISPLAY_peticion_seguimiento
+                0x00002040       0x4c ..\obj\display.o
+                0x00002040                DISPLAY_peticion_seguimiento
+ .text.DISPLAY_GENERICO_dibuja_string
+                0x0000208c       0x24 ..\obj\display_RIT.o
+                0x0000208c                DISPLAY_GENERICO_dibuja_string
+ .text.DISPLAY_GENERICO_dibuja_imagen
+                0x000020b0       0x28 ..\obj\display_RIT.o
+                0x000020b0                DISPLAY_GENERICO_dibuja_imagen
+ .text.DISPLAY_GENERICO_init
+                0x000020d8       0x14 ..\obj\display_RIT.o
+                0x000020d8                DISPLAY_GENERICO_init
+ .text.xTaskGenericCreate
+                0x000020ec      0x1ac ..\obj\tasks.o
+                0x000020ec                xTaskGenericCreate
+ .text.vTaskDelayUntil
+                0x00002298       0xb0 ..\obj\tasks.o
+                0x00002298                vTaskDelayUntil
+ .text.vTaskSuspend
+                0x00002348       0xc0 ..\obj\tasks.o
+                0x00002348                vTaskSuspend
+ .text.xTaskIsTaskSuspended
+                0x00002408       0x50 ..\obj\tasks.o
+                0x00002408                xTaskIsTaskSuspended
+ .text.vTaskResume
+                0x00002458       0xac ..\obj\tasks.o
+                0x00002458                vTaskResume
+ .text.vTaskStartScheduler
+                0x00002504       0x74 ..\obj\tasks.o
+                0x00002504                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x00002578       0x24 ..\obj\tasks.o
+                0x00002578                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x0000259c      0x154 ..\obj\tasks.o
+                0x0000259c                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x000026f0       0x28 ..\obj\tasks.o
+                0x000026f0                xTaskGetTickCount
+ .text.vTaskIncrementTick
+                0x00002718      0x1b8 ..\obj\tasks.o
+                0x00002718                vTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x000028d0       0xd0 ..\obj\tasks.o
+                0x000028d0                vTaskSwitchContext
+ .text.prvIdleTask
+                0x000029a0       0x10 ..\obj\tasks.o
+ .text.prvInitialiseTCBVariables
+                0x000029b0       0x78 ..\obj\tasks.o
+ .text.prvInitialiseTaskLists
+                0x00002a28       0x98 ..\obj\tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x00002ac0        0xc ..\obj\tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x00002acc       0x8c ..\obj\tasks.o
+ .text.prvAllocateTCBAndStack
+                0x00002b58       0x74 ..\obj\tasks.o
+ .text.EjecutaAutomata
+                0x00002bcc       0x50 ..\obj\egoera_makina.o
+                0x00002bcc                EjecutaAutomata
+ .text.EjecutaEstadoVertical
+                0x00002c1c       0x78 ..\obj\egoera_makina.o
+                0x00002c1c                EjecutaEstadoVertical
+ .text.IntEnable
+                0x00002c94       0xd8 ..\obj\interrupt.o
+                0x00002c94                IntEnable
+ .text.RITWriteCommand
+                0x00002d6c       0xfc ..\obj\rit128x96x4.o
+ .text.RITWriteData
+                0x00002e68       0xfc ..\obj\rit128x96x4.o
+ .text.RIT128x96x4Clear
+                0x00002f64       0x9c ..\obj\rit128x96x4.o
+                0x00002f64                RIT128x96x4Clear
+ .text.RIT128x96x4StringDraw
+                0x00003000      0x1e0 ..\obj\rit128x96x4.o
+                0x00003000                RIT128x96x4StringDraw
+ .text.RIT128x96x4ImageDraw
+                0x000031e0       0xec ..\obj\rit128x96x4.o
+                0x000031e0                RIT128x96x4ImageDraw
+ .text.RIT128x96x4Enable
+                0x000032cc       0xa4 ..\obj\rit128x96x4.o
+                0x000032cc                RIT128x96x4Enable
+ .text.RIT128x96x4Init
+                0x00003370      0x128 ..\obj\rit128x96x4.o
+                0x00003370                RIT128x96x4Init
+ .text.KEYPAD_inicializacion_keypad
+                0x00003498      0x140 ..\obj\keypad.o
+                0x00003498                KEYPAD_inicializacion_keypad
+ .text.PortEInterruptHandler
+                0x000035d8      0x11c ..\obj\keypad.o
+                0x000035d8                PortEInterruptHandler
+ .text.PortFInterruptHandler
+                0x000036f4       0x60 ..\obj\keypad.o
+                0x000036f4                PortFInterruptHandler
+ .text.Default_Reset_Handler
+                0x00003754       0x6c ..\obj\startup_lm3s.o
+                0x00003754                Default_Reset_Handler
+                0x00003754                Reset_Handler
+ .text.Default_Handler
+                0x000037c0        0x8 ..\obj\startup_lm3s.o
+                0x000037c0                DebugMon_Handler
+                0x000037c0                FlashCtrl_IRQHandler
+                0x000037c0                Timer0B_IRQHandler
+                0x000037c0                I2C0_IRQHandler
+                0x000037c0                HardFault_Handler
+                0x000037c0                SysTick_Handler
+                0x000037c0                PendSV_Handler
+                0x000037c0                NMI_Handler
+                0x000037c0                I2C1_IRQHandler
+                0x000037c0                PWMGen0_IRQHandler
+                0x000037c0                UART1_IRQHandler
+                0x000037c0                CAN1_IRQHandler
+                0x000037c0                Timer1B_IRQHandler
+                0x000037c0                Watchdog_IRQHandler
+                0x000037c0                UART0_IRQHandler
+                0x000037c0                SSI0_IRQHandler
+                0x000037c0                UsageFault_Handler
+                0x000037c0                ADCSeq1_IRQHandler
+                0x000037c0                PWMFault_IRQHandler
+                0x000037c0                PWMGen1_IRQHandler
+                0x000037c0                SSI1_IRQHandler
+                0x000037c0                uDMA_IRQHandler
+                0x000037c0                GPIOPortC_IRQHandler
+                0x000037c0                ADCSeq2_IRQHandler
+                0x000037c0                PWMGen2_IRQHandler
+                0x000037c0                UART2_IRQHandler
+                0x000037c0                uDMAErr_IRQHandler
+                0x000037c0                QEI1_IRQHandler
+                0x000037c0                QEI0_IRQHandler
+                0x000037c0                PWMGen3_IRQHandler
+                0x000037c0                GPIOPortD_IRQHandler
+                0x000037c0                USB0_IRQHandler
+                0x000037c0                MemManage_Handler
+                0x000037c0                Ethernet_IRQHandler
+                0x000037c0                SVC_Handler
+                0x000037c0                Timer3B_IRQHandler
+                0x000037c0                Timer3A_IRQHandler
+                0x000037c0                GPIOPortA_IRQHandler
+                0x000037c0                Timer0A_IRQHandler
+                0x000037c0                ADCSeq0_IRQHandler
+                0x000037c0                Timer1A_IRQHandler
+                0x000037c0                GPIOPortG_IRQHandler
+                0x000037c0                ADCSeq3_IRQHandler
+                0x000037c0                GPIOPortE_IRQHandler
+                0x000037c0                CAN0_IRQHandler
+                0x000037c0                Comp0_IRQHandler
+                0x000037c0                Comp1_IRQHandler
+                0x000037c0                Comp2_IRQHandler
+                0x000037c0                GPIOPortF_IRQHandler
+                0x000037c0                GPIOPortB_IRQHandler
+                0x000037c0                CAN2_IRQHandler
+                0x000037c0                GPIOPortH_IRQHandler
+                0x000037c0                BusFault_Handler
+                0x000037c0                Timer2A_IRQHandler
+                0x000037c0                Timer2B_IRQHandler
+                0x000037c0                SysCtrl_IRQHandler
+                0x000037c0                Hibernate_IRQHandler
+ .text.vListInitialise
+                0x000037c8       0x48 ..\obj\list.o
+                0x000037c8                vListInitialise
+ .text.vListInitialiseItem
+                0x00003810       0x1c ..\obj\list.o
+                0x00003810                vListInitialiseItem
+ .text.vListInsertEnd
+                0x0000382c       0x54 ..\obj\list.o
+                0x0000382c                vListInsertEnd
+ .text.vListInsert
+                0x00003880       0x78 ..\obj\list.o
+                0x00003880                vListInsert
+ .text.vListRemove
+                0x000038f8       0x54 ..\obj\list.o
+                0x000038f8                vListRemove
+ .text.SSIConfigSetExpClk
+                0x0000394c       0xb4 ..\obj\ssi.o
+                0x0000394c                SSIConfigSetExpClk
+ .text.SSIEnable
+                0x00003a00       0x28 ..\obj\ssi.o
+                0x00003a00                SSIEnable
+ .text.SSIDisable
+                0x00003a28       0x28 ..\obj\ssi.o
+                0x00003a28                SSIDisable
+ .text.SSIDataPut
+                0x00003a50       0x30 ..\obj\ssi.o
+                0x00003a50                SSIDataPut
+ .text.SSIBusy  0x00003a80       0x2c ..\obj\ssi.o
+                0x00003a80                SSIBusy
+ .text.pxPortInitialiseStack
+                0x00003aac       0x60 ..\obj\port.o
+                0x00003aac                pxPortInitialiseStack
+ .text.vPortSVCHandler
+                0x00003b0c       0x20 ..\obj\port.o
+                0x00003b0c                vPortSVCHandler
+ .text.vPortStartFirstTask
+                0x00003b2c       0x14 ..\obj\port.o
+                0x00003b2c                vPortStartFirstTask
+ .text.xPortStartScheduler
+                0x00003b40       0x54 ..\obj\port.o
+                0x00003b40                xPortStartScheduler
+ .text.vPortYieldFromISR
+                0x00003b94       0x18 ..\obj\port.o
+                0x00003b94                vPortYieldFromISR
+ .text.vPortEnterCritical
+                0x00003bac       0x2c ..\obj\port.o
+                0x00003bac                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00003bd8       0x38 ..\obj\port.o
+                0x00003bd8                vPortExitCritical
+ .text.xPortPendSVHandler
+                0x00003c10       0x3c ..\obj\port.o
+                0x00003c10                xPortPendSVHandler
+ .text.xPortSysTickHandler
+                0x00003c4c       0x50 ..\obj\port.o
+                0x00003c4c                xPortSysTickHandler
+ .text.prvSetupTimerInterrupt
+                0x00003c9c       0x2c ..\obj\port.o
+ .text.SysTickValueGet
+                0x00003cc8       0x18 ..\obj\systick.o
+                0x00003cc8                SysTickValueGet
+ .text.pvPortMalloc
+                0x00003ce0       0x98 ..\obj\heap_1.o
+                0x00003ce0                pvPortMalloc
+ .text.vPortFree
+                0x00003d78       0x14 ..\obj\heap_1.o
+                0x00003d78                vPortFree
+ .text.vTask_Idle
+                0x00003d8c        0xc ..\obj\Task_Idle.o
+                0x00003d8c                vTask_Idle
+ .text.CLOCK_inicializar_clock
+                0x00003d98       0x14 ..\obj\clock.o
+                0x00003d98                CLOCK_inicializar_clock
+ .text.vTask_Recibir_Infrarrojos
+                0x00003dac       0x18 ..\obj\Task_Recibir_Infrarrojos.o
+                0x00003dac                vTask_Recibir_Infrarrojos
+ .text          0x00003dc4       0xb4 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+                0x00003dc4                memset
+ .text          0x00003e78       0x60 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+                0x00003e78                strlen
+ .text          0x00003ed8       0x7c c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strncpy.o)
+                0x00003ed8                strncpy
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata        0x00003f54      0x5fc ..\obj\Recepcion_Infrarrojos.o
+                0x00003f80                xesperar
+                0x00003fa8                esperar
+                0x00004044                xleer_on
+                0x0000408c                leer_on
+                0x00004128                xleer_off
+                0x00004174                leer_off
+                0x000041bc                xleer_on_2
+                0x00004208                leer_on_2
+                0x00004250                xleer_off_2
+                0x0000429c                leer_off_2
+                0x00004308                xpreguntar
+                0x00004344                preguntar
+                0x00004380                xactivado
+                0x000043ac                activado
+                0x000043bc                xleer_off_3
+                0x00004408                leer_off_3
+                0x00004418                xleer_on_3
+                0x00004464                leer_on_3
+                0x00004474                xleer_off_4
+                0x000044c0                leer_off_4
+                0x000044d0                xleer_on_4
+                0x0000451c                leer_on_4
+                0x00004540                activar_infrarrojos
+ .rodata        0x00004550       0x28 ..\obj\main.o
+ .rodata        0x00004578       0x78 ..\obj\framebuffer.o
+                0x00004578                g_puc_circ
+                0x000045b4                g_puc_nada
+ .rodata        0x000045f0       0x9c ..\obj\sysctl.o
+ .rodata        0x0000468c       0xfc ..\obj\display.o
+ .rodata        0x00004788        0x8 ..\obj\tasks.o
+ .rodata        0x00004790      0x244 ..\obj\rit128x96x4.o
+
+.vfp11_veneer   0x000049d4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000049d4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000049d4                . = ALIGN (0x4)
+                0x000049d4                _etext = .
+                0x000049d4                _sidata = .
+
+.data           0x20000000       0x48 load address 0x000049d4
+                0x20000000                _sdata = .
+ *(.data .data.*)
+ .data          0x20000000       0x30 ..\obj\Recepcion_Infrarrojos.o
+                0x20000000                xactivar_infrarrojos
+ .data          0x20000030       0x10 ..\obj\system_lm3s.o
+                0x20000030                SystemFrequency
+                0x20000034                SystemFrequency_PwmClk
+                0x20000038                SystemFrequency_AdcClk
+                0x2000003c                SystemFrequency_CanClk
+ .data          0x20000040        0x4 ..\obj\tasks.o
+ .data          0x20000044        0x4 ..\obj\port.o
+                0x20000048                . = ALIGN (0x4)
+                0x20000048                _edata = .
+
+.bss            0x20000048     0x1418 load address 0x00004a1c
+                0x20000048                _sbss = .
+ *(.bss .bss.*)
+ .bss           0x20000048        0x8 ..\obj\Recepcion_Infrarrojos.o
+                0x20000048                g_time
+                0x2000004c                g_cycles
+ .bss           0x20000050        0x4 ..\obj\framebuffer.o
+                0x20000050                g_display_element_kop
+ .bss           0x20000054       0xe8 ..\obj\tasks.o
+                0x20000054                pxCurrentTCB
+ .bss           0x2000013c        0x2 ..\obj\egoera_makina.o
+                0x2000013c                fms_mv
+                0x2000013d                fms_mv_anterior
+ *fill*         0x2000013e        0x2 00
+ .bss           0x20000140        0xc ..\obj\rit128x96x4.o
+ *fill*         0x2000014c        0x4 00
+ .bss           0x20000150     0x1008 ..\obj\heap_1.o
+ .bss           0x20001158        0x5 ..\obj\Task_Recibir_Infrarrojos.o
+                0x20001158                g_arriba
+                0x20001159                g_abajo
+                0x2000115a                g_izquierda
+                0x2000115b                g_derecha
+                0x2000115c                g_select
+ *(COMMON)
+ *fill*         0x2000115d        0x3 00
+ COMMON         0x20001160       0x2c ..\obj\Recepcion_Infrarrojos.o
+                0x20001160                g_ul_xTimeTimerOn
+                0x20001164                g_ul_xTimeTimerOff1
+                0x20001168                g_xTimeFlanco
+                0x2000116c                str
+ COMMON         0x2000118c        0x4 ..\obj\main.o
+                0x2000118c                xHandle_Task_Recibir_Infrarrojos
+ COMMON         0x20001190      0x2d0 ..\obj\framebuffer.o
+                0x20001190                g_display_elements
+                0x20001460                . = ALIGN (0x4)
+                0x20001460                _ebss = .
+
+.co_stack       0x20001460      0x400 load address 0x00005e34
+                0x20001460                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20001460      0x400 ..\obj\startup_lm3s.o
+                0x20001460                pulStack
+                0x20001860                . = ALIGN (0x4)
+                0x20001860                _end = .
+LOAD ..\obj\Recepcion_Infrarrojos.o
+LOAD ..\obj\pines.o
+LOAD ..\obj\system_lm3s.o
+LOAD ..\obj\core_cm3.o
+LOAD ..\obj\timer.o
+LOAD ..\obj\system_tick.o
+LOAD ..\obj\main.o
+LOAD ..\obj\framebuffer.o
+LOAD ..\obj\sysctl.o
+LOAD ..\obj\timers.o
+LOAD ..\obj\gpio.o
+LOAD ..\obj\display.o
+LOAD ..\obj\display_RIT.o
+LOAD ..\obj\tasks.o
+LOAD ..\obj\egoera_makina.o
+LOAD ..\obj\interrupt.o
+LOAD ..\obj\rit128x96x4.o
+LOAD ..\obj\keypad.o
+LOAD ..\obj\startup_lm3s.o
+LOAD ..\obj\list.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\ssi.o
+LOAD ..\obj\queue.o
+LOAD ..\obj\port.o
+LOAD ..\obj\croutine.o
+LOAD ..\obj\cpu.o
+LOAD ..\obj\console.o
+LOAD ..\obj\systick.o
+LOAD ..\obj\heap_1.o
+LOAD ..\obj\Task_Idle.o
+LOAD ..\obj\clock.o
+LOAD ..\obj\Task_Recibir_Infrarrojos.o
+START GROUP
+LOAD c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libgcc.a
+LOAD c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a
+END GROUP
+OUTPUT(POPBL_infrarrojos_beta_2.elf elf32-littlearm)
+
+.debug_abbrev   0x00000000     0x199b
+ .debug_abbrev  0x00000000      0x18f ..\obj\Recepcion_Infrarrojos.o
+ .debug_abbrev  0x0000018f       0xb3 ..\obj\pines.o
+ .debug_abbrev  0x00000242      0x112 ..\obj\system_lm3s.o
+ .debug_abbrev  0x00000354       0xd7 ..\obj\core_cm3.o
+ .debug_abbrev  0x0000042b       0xb8 ..\obj\timer.o
+ .debug_abbrev  0x000004e3       0x49 ..\obj\system_tick.o
+ .debug_abbrev  0x0000052c       0x7b ..\obj\main.o
+ .debug_abbrev  0x000005a7      0x12d ..\obj\framebuffer.o
+ .debug_abbrev  0x000006d4      0x115 ..\obj\sysctl.o
+ .debug_abbrev  0x000007e9       0x2a ..\obj\timers.o
+ .debug_abbrev  0x00000813       0xf1 ..\obj\gpio.o
+ .debug_abbrev  0x00000904       0x7d ..\obj\display.o
+ .debug_abbrev  0x00000981       0x84 ..\obj\display_RIT.o
+ .debug_abbrev  0x00000a05      0x197 ..\obj\tasks.o
+ .debug_abbrev  0x00000b9c       0xd6 ..\obj\egoera_makina.o
+ .debug_abbrev  0x00000c72      0x104 ..\obj\interrupt.o
+ .debug_abbrev  0x00000d76       0xb2 ..\obj\rit128x96x4.o
+ .debug_abbrev  0x00000e28       0x9b ..\obj\keypad.o
+ .debug_abbrev  0x00000ec3       0xa5 ..\obj\startup_lm3s.o
+ .debug_abbrev  0x00000f68       0xb8 ..\obj\list.o
+ .debug_abbrev  0x00001020       0xe0 ..\obj\syscalls.o
+ .debug_abbrev  0x00001100       0xd8 ..\obj\ssi.o
+ .debug_abbrev  0x000011d8      0x142 ..\obj\queue.o
+ .debug_abbrev  0x0000131a      0x133 ..\obj\port.o
+ .debug_abbrev  0x0000144d      0x188 ..\obj\croutine.o
+ .debug_abbrev  0x000015d5       0x5e ..\obj\cpu.o
+ .debug_abbrev  0x00001633       0xa0 ..\obj\console.o
+ .debug_abbrev  0x000016d3       0x83 ..\obj\systick.o
+ .debug_abbrev  0x00001756       0xfe ..\obj\heap_1.o
+ .debug_abbrev  0x00001854       0x43 ..\obj\Task_Idle.o
+ .debug_abbrev  0x00001897       0x36 ..\obj\clock.o
+ .debug_abbrev  0x000018cd       0xce ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_info     0x00000000     0x6a26
+ .debug_info    0x00000000      0xa03 ..\obj\Recepcion_Infrarrojos.o
+ .debug_info    0x00000a03      0x162 ..\obj\pines.o
+ .debug_info    0x00000b65      0x45a ..\obj\system_lm3s.o
+ .debug_info    0x00000fbf      0x54c ..\obj\core_cm3.o
+ .debug_info    0x0000150b      0x5b4 ..\obj\timer.o
+ .debug_info    0x00001abf       0x5b ..\obj\system_tick.o
+ .debug_info    0x00001b1a       0xc0 ..\obj\main.o
+ .debug_info    0x00001bda      0x3b9 ..\obj\framebuffer.o
+ .debug_info    0x00001f93      0x7f1 ..\obj\sysctl.o
+ .debug_info    0x00002784       0x50 ..\obj\timers.o
+ .debug_info    0x000027d4      0x8a1 ..\obj\gpio.o
+ .debug_info    0x00003075       0xa3 ..\obj\display.o
+ .debug_info    0x00003118      0x153 ..\obj\display_RIT.o
+ .debug_info    0x0000326b      0xaff ..\obj\tasks.o
+ .debug_info    0x00003d6a      0x259 ..\obj\egoera_makina.o
+ .debug_info    0x00003fc3      0x2b7 ..\obj\interrupt.o
+ .debug_info    0x0000427a      0x3db ..\obj\rit128x96x4.o
+ .debug_info    0x00004655      0x1bd ..\obj\keypad.o
+ .debug_info    0x00004812      0x135 ..\obj\startup_lm3s.o
+ .debug_info    0x00004947      0x2aa ..\obj\list.o
+ .debug_info    0x00004bf1      0x444 ..\obj\syscalls.o
+ .debug_info    0x00005035      0x449 ..\obj\ssi.o
+ .debug_info    0x0000547e      0x731 ..\obj\queue.o
+ .debug_info    0x00005baf      0x1f7 ..\obj\port.o
+ .debug_info    0x00005da6      0x4b3 ..\obj\croutine.o
+ .debug_info    0x00006259       0x99 ..\obj\cpu.o
+ .debug_info    0x000062f2      0x1b2 ..\obj\console.o
+ .debug_info    0x000064a4      0x12b ..\obj\systick.o
+ .debug_info    0x000065cf      0x176 ..\obj\heap_1.o
+ .debug_info    0x00006745       0x54 ..\obj\Task_Idle.o
+ .debug_info    0x00006799       0x46 ..\obj\clock.o
+ .debug_info    0x000067df      0x247 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_line     0x00000000     0x7122
+ .debug_line    0x00000000      0x7b9 ..\obj\Recepcion_Infrarrojos.o
+ .debug_line    0x000007b9      0x31f ..\obj\pines.o
+ .debug_line    0x00000ad8      0x284 ..\obj\system_lm3s.o
+ .debug_line    0x00000d5c      0x2e2 ..\obj\core_cm3.o
+ .debug_line    0x0000103e      0x439 ..\obj\timer.o
+ .debug_line    0x00001477      0x114 ..\obj\system_tick.o
+ .debug_line    0x0000158b      0x655 ..\obj\main.o
+ .debug_line    0x00001be0      0x509 ..\obj\framebuffer.o
+ .debug_line    0x000020e9      0x613 ..\obj\sysctl.o
+ .debug_line    0x000026fc      0x208 ..\obj\timers.o
+ .debug_line    0x00002904      0x60a ..\obj\gpio.o
+ .debug_line    0x00002f0e      0x160 ..\obj\display.o
+ .debug_line    0x0000306e      0x39f ..\obj\display_RIT.o
+ .debug_line    0x0000340d      0x813 ..\obj\tasks.o
+ .debug_line    0x00003c20      0x39a ..\obj\egoera_makina.o
+ .debug_line    0x00003fba      0x25c ..\obj\interrupt.o
+ .debug_line    0x00004216      0x30b ..\obj\rit128x96x4.o
+ .debug_line    0x00004521      0x3a9 ..\obj\keypad.o
+ .debug_line    0x000048ca       0xa5 ..\obj\startup_lm3s.o
+ .debug_line    0x0000496f      0x407 ..\obj\list.o
+ .debug_line    0x00004d76      0x37d ..\obj\syscalls.o
+ .debug_line    0x000050f3      0x32e ..\obj\ssi.o
+ .debug_line    0x00005421      0x5ba ..\obj\queue.o
+ .debug_line    0x000059db      0x25f ..\obj\port.o
+ .debug_line    0x00005c3a      0x32f ..\obj\croutine.o
+ .debug_line    0x00005f69       0xef ..\obj\cpu.o
+ .debug_line    0x00006058      0x3bc ..\obj\console.o
+ .debug_line    0x00006414      0x1e1 ..\obj\systick.o
+ .debug_line    0x000065f5      0x3f3 ..\obj\heap_1.o
+ .debug_line    0x000069e8       0x79 ..\obj\Task_Idle.o
+ .debug_line    0x00006a61      0x150 ..\obj\clock.o
+ .debug_line    0x00006bb1      0x571 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_macinfo  0x00000000    0xc9a9f
+ .debug_macinfo
+                0x00000000     0x8da4 ..\obj\Recepcion_Infrarrojos.o
+ .debug_macinfo
+                0x00008da4     0x943a ..\obj\pines.o
+ .debug_macinfo
+                0x000121de     0x61d1 ..\obj\system_lm3s.o
+ .debug_macinfo
+                0x000183af     0x1f65 ..\obj\core_cm3.o
+ .debug_macinfo
+                0x0001a314     0x42cf ..\obj\timer.o
+ .debug_macinfo
+                0x0001e5e3     0x16c9 ..\obj\system_tick.o
+ .debug_macinfo
+                0x0001fcac     0xc7c1 ..\obj\main.o
+ .debug_macinfo
+                0x0002c46d     0x4c4f ..\obj\framebuffer.o
+ .debug_macinfo
+                0x000310bc    0x1284d ..\obj\sysctl.o
+ .debug_macinfo
+                0x00043909     0x4286 ..\obj\timers.o
+ .debug_macinfo
+                0x00047b8f    0x119e1 ..\obj\gpio.o
+ .debug_macinfo
+                0x00059570     0x1fce ..\obj\display.o
+ .debug_macinfo
+                0x0005b53e     0x3d68 ..\obj\display_RIT.o
+ .debug_macinfo
+                0x0005f2a6     0x6b0e ..\obj\tasks.o
+ .debug_macinfo
+                0x00065db4     0x4c21 ..\obj\egoera_makina.o
+ .debug_macinfo
+                0x0006a9d5     0x76e6 ..\obj\interrupt.o
+ .debug_macinfo
+                0x000720bb    0x1090a ..\obj\rit128x96x4.o
+ .debug_macinfo
+                0x000829c5     0x946e ..\obj\keypad.o
+ .debug_macinfo
+                0x0008be33     0x16a5 ..\obj\startup_lm3s.o
+ .debug_macinfo
+                0x0008d4d8     0x4f5d ..\obj\list.o
+ .debug_macinfo
+                0x00092435     0x492d ..\obj\syscalls.o
+ .debug_macinfo
+                0x00096d62     0x57bf ..\obj\ssi.o
+ .debug_macinfo
+                0x0009c521     0x566c ..\obj\queue.o
+ .debug_macinfo
+                0x000a1b8d     0x37bc ..\obj\port.o
+ .debug_macinfo
+                0x000a5349     0x3c8d ..\obj\croutine.o
+ .debug_macinfo
+                0x000a8fd6     0x1680 ..\obj\cpu.o
+ .debug_macinfo
+                0x000aa656     0x431d ..\obj\console.o
+ .debug_macinfo
+                0x000ae973     0x76ea ..\obj\systick.o
+ .debug_macinfo
+                0x000b605d     0x52fb ..\obj\heap_1.o
+ .debug_macinfo
+                0x000bb358     0x1683 ..\obj\Task_Idle.o
+ .debug_macinfo
+                0x000bc9db     0x42b1 ..\obj\clock.o
+ .debug_macinfo
+                0x000c0c8c     0x8e13 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_loc      0x00000000     0x3e8a
+ .debug_loc     0x00000000      0x5a0 ..\obj\Recepcion_Infrarrojos.o
+ .debug_loc     0x000005a0       0x90 ..\obj\pines.o
+ .debug_loc     0x00000630       0x70 ..\obj\system_lm3s.o
+ .debug_loc     0x000006a0      0x3f0 ..\obj\core_cm3.o
+ .debug_loc     0x00000a90      0x508 ..\obj\timer.o
+ .debug_loc     0x00000f98       0x38 ..\obj\system_tick.o
+ .debug_loc     0x00000fd0       0x38 ..\obj\main.o
+ .debug_loc     0x00001008      0x18a ..\obj\framebuffer.o
+ .debug_loc     0x00001192      0x894 ..\obj\sysctl.o
+ .debug_loc     0x00001a26      0x700 ..\obj\gpio.o
+ .debug_loc     0x00002126       0x90 ..\obj\display.o
+ .debug_loc     0x000021b6       0x9c ..\obj\display_RIT.o
+ .debug_loc     0x00002252      0x574 ..\obj\tasks.o
+ .debug_loc     0x000027c6       0x70 ..\obj\egoera_makina.o
+ .debug_loc     0x00002836      0x244 ..\obj\interrupt.o
+ .debug_loc     0x00002a7a      0x224 ..\obj\rit128x96x4.o
+ .debug_loc     0x00002c9e       0x9c ..\obj\keypad.o
+ .debug_loc     0x00002d3a       0x64 ..\obj\startup_lm3s.o
+ .debug_loc     0x00002d9e      0x118 ..\obj\list.o
+ .debug_loc     0x00002eb6      0x1ec ..\obj\syscalls.o
+ .debug_loc     0x000030a2      0x380 ..\obj\ssi.o
+ .debug_loc     0x00003422      0x348 ..\obj\queue.o
+ .debug_loc     0x0000376a      0x178 ..\obj\port.o
+ .debug_loc     0x000038e2      0x188 ..\obj\croutine.o
+ .debug_loc     0x00003a6a      0x118 ..\obj\console.o
+ .debug_loc     0x00003b82      0x1a4 ..\obj\systick.o
+ .debug_loc     0x00003d26       0xc8 ..\obj\heap_1.o
+ .debug_loc     0x00003dee       0x38 ..\obj\Task_Idle.o
+ .debug_loc     0x00003e26       0x2c ..\obj\clock.o
+ .debug_loc     0x00003e52       0x38 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_pubnames
+                0x00000000     0x20ed
+ .debug_pubnames
+                0x00000000      0x730 ..\obj\Recepcion_Infrarrojos.o
+ .debug_pubnames
+                0x00000730       0x82 ..\obj\pines.o
+ .debug_pubnames
+                0x000007b2       0x86 ..\obj\system_lm3s.o
+ .debug_pubnames
+                0x00000838      0x159 ..\obj\core_cm3.o
+ .debug_pubnames
+                0x00000991      0x1d2 ..\obj\timer.o
+ .debug_pubnames
+                0x00000b63       0x34 ..\obj\system_tick.o
+ .debug_pubnames
+                0x00000b97       0x40 ..\obj\main.o
+ .debug_pubnames
+                0x00000bd7      0x13e ..\obj\framebuffer.o
+ .debug_pubnames
+                0x00000d15      0x41f ..\obj\sysctl.o
+ .debug_pubnames
+                0x00001134      0x2a9 ..\obj\gpio.o
+ .debug_pubnames
+                0x000013dd       0x66 ..\obj\display.o
+ .debug_pubnames
+                0x00001443       0x72 ..\obj\display_RIT.o
+ .debug_pubnames
+                0x000014b5      0x1ee ..\obj\tasks.o
+ .debug_pubnames
+                0x000016a3       0x5f ..\obj\egoera_makina.o
+ .debug_pubnames
+                0x00001702       0xd6 ..\obj\interrupt.o
+ .debug_pubnames
+                0x000017d8       0xce ..\obj\rit128x96x4.o
+ .debug_pubnames
+                0x000018a6       0x80 ..\obj\keypad.o
+ .debug_pubnames
+                0x00001926       0x4a ..\obj\startup_lm3s.o
+ .debug_pubnames
+                0x00001970       0x71 ..\obj\list.o
+ .debug_pubnames
+                0x000019e1       0x71 ..\obj\syscalls.o
+ .debug_pubnames
+                0x00001a52      0x133 ..\obj\ssi.o
+ .debug_pubnames
+                0x00001b85      0x111 ..\obj\queue.o
+ .debug_pubnames
+                0x00001c96      0x10d ..\obj\port.o
+ .debug_pubnames
+                0x00001da3       0x96 ..\obj\croutine.o
+ .debug_pubnames
+                0x00001e39       0x37 ..\obj\cpu.o
+ .debug_pubnames
+                0x00001e70       0x86 ..\obj\console.o
+ .debug_pubnames
+                0x00001ef6       0xd0 ..\obj\systick.o
+ .debug_pubnames
+                0x00001fc6       0x64 ..\obj\heap_1.o
+ .debug_pubnames
+                0x0000202a       0x21 ..\obj\Task_Idle.o
+ .debug_pubnames
+                0x0000204b       0x2e ..\obj\clock.o
+ .debug_pubnames
+                0x00002079       0x74 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_pubtypes
+                0x00000000      0x7e3
+ .debug_pubtypes
+                0x00000000       0x86 ..\obj\Recepcion_Infrarrojos.o
+ .debug_pubtypes
+                0x00000086       0x2f ..\obj\pines.o
+ .debug_pubtypes
+                0x000000b5       0x3b ..\obj\system_lm3s.o
+ .debug_pubtypes
+                0x000000f0       0x50 ..\obj\core_cm3.o
+ .debug_pubtypes
+                0x00000140       0x1f ..\obj\timer.o
+ .debug_pubtypes
+                0x0000015f       0x22 ..\obj\main.o
+ .debug_pubtypes
+                0x00000181       0x3f ..\obj\framebuffer.o
+ .debug_pubtypes
+                0x000001c0       0x1f ..\obj\sysctl.o
+ .debug_pubtypes
+                0x000001df       0x12 ..\obj\timers.o
+ .debug_pubtypes
+                0x000001f1       0x1f ..\obj\gpio.o
+ .debug_pubtypes
+                0x00000210       0x12 ..\obj\display.o
+ .debug_pubtypes
+                0x00000222       0x12 ..\obj\display_RIT.o
+ .debug_pubtypes
+                0x00000234      0x10c ..\obj\tasks.o
+ .debug_pubtypes
+                0x00000340       0x65 ..\obj\egoera_makina.o
+ .debug_pubtypes
+                0x000003a5       0x1f ..\obj\interrupt.o
+ .debug_pubtypes
+                0x000003c4       0x12 ..\obj\rit128x96x4.o
+ .debug_pubtypes
+                0x000003d6       0x2f ..\obj\keypad.o
+ .debug_pubtypes
+                0x00000405       0x7a ..\obj\list.o
+ .debug_pubtypes
+                0x0000047f       0xaa ..\obj\syscalls.o
+ .debug_pubtypes
+                0x00000529       0x1f ..\obj\ssi.o
+ .debug_pubtypes
+                0x00000548       0xd4 ..\obj\queue.o
+ .debug_pubtypes
+                0x0000061c       0x33 ..\obj\port.o
+ .debug_pubtypes
+                0x0000064f       0xcd ..\obj\croutine.o
+ .debug_pubtypes
+                0x0000071c       0x12 ..\obj\console.o
+ .debug_pubtypes
+                0x0000072e       0x12 ..\obj\systick.o
+ .debug_pubtypes
+                0x00000740       0x2c ..\obj\heap_1.o
+ .debug_pubtypes
+                0x0000076c       0x12 ..\obj\clock.o
+ .debug_pubtypes
+                0x0000077e       0x65 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_aranges  0x00000000      0xca0
+ .debug_aranges
+                0x00000000      0x108 ..\obj\Recepcion_Infrarrojos.o
+ .debug_aranges
+                0x00000108       0x30 ..\obj\pines.o
+ .debug_aranges
+                0x00000138       0x28 ..\obj\system_lm3s.o
+ .debug_aranges
+                0x00000160       0xc8 ..\obj\core_cm3.o
+ .debug_aranges
+                0x00000228       0xd0 ..\obj\timer.o
+ .debug_aranges
+                0x000002f8       0x20 ..\obj\system_tick.o
+ .debug_aranges
+                0x00000318       0x20 ..\obj\main.o
+ .debug_aranges
+                0x00000338       0x50 ..\obj\framebuffer.o
+ .debug_aranges
+                0x00000388      0x170 ..\obj\sysctl.o
+ .debug_aranges
+                0x000004f8      0x118 ..\obj\gpio.o
+ .debug_aranges
+                0x00000610       0x30 ..\obj\display.o
+ .debug_aranges
+                0x00000640       0x30 ..\obj\display_RIT.o
+ .debug_aranges
+                0x00000670       0xe8 ..\obj\tasks.o
+ .debug_aranges
+                0x00000758       0x28 ..\obj\egoera_makina.o
+ .debug_aranges
+                0x00000780       0x70 ..\obj\interrupt.o
+ .debug_aranges
+                0x000007f0       0x68 ..\obj\rit128x96x4.o
+ .debug_aranges
+                0x00000858       0x30 ..\obj\keypad.o
+ .debug_aranges
+                0x00000888       0x28 ..\obj\startup_lm3s.o
+ .debug_aranges
+                0x000008b0       0x40 ..\obj\list.o
+ .debug_aranges
+                0x000008f0       0x60 ..\obj\syscalls.o
+ .debug_aranges
+                0x00000950       0x98 ..\obj\ssi.o
+ .debug_aranges
+                0x000009e8       0x90 ..\obj\queue.o
+ .debug_aranges
+                0x00000a78       0x70 ..\obj\port.o
+ .debug_aranges
+                0x00000ae8       0x50 ..\obj\croutine.o
+ .debug_aranges
+                0x00000b38       0x30 ..\obj\cpu.o
+ .debug_aranges
+                0x00000b68       0x40 ..\obj\console.o
+ .debug_aranges
+                0x00000ba8       0x60 ..\obj\systick.o
+ .debug_aranges
+                0x00000c08       0x38 ..\obj\heap_1.o
+ .debug_aranges
+                0x00000c40       0x20 ..\obj\Task_Idle.o
+ .debug_aranges
+                0x00000c60       0x20 ..\obj\clock.o
+ .debug_aranges
+                0x00000c80       0x20 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_ranges   0x00000000      0xab0
+ .debug_ranges  0x00000000       0xf8 ..\obj\Recepcion_Infrarrojos.o
+ .debug_ranges  0x000000f8       0x20 ..\obj\pines.o
+ .debug_ranges  0x00000118       0x18 ..\obj\system_lm3s.o
+ .debug_ranges  0x00000130       0xb8 ..\obj\core_cm3.o
+ .debug_ranges  0x000001e8       0xc0 ..\obj\timer.o
+ .debug_ranges  0x000002a8       0x10 ..\obj\system_tick.o
+ .debug_ranges  0x000002b8       0x10 ..\obj\main.o
+ .debug_ranges  0x000002c8       0x40 ..\obj\framebuffer.o
+ .debug_ranges  0x00000308      0x160 ..\obj\sysctl.o
+ .debug_ranges  0x00000468      0x108 ..\obj\gpio.o
+ .debug_ranges  0x00000570       0x20 ..\obj\display.o
+ .debug_ranges  0x00000590       0x20 ..\obj\display_RIT.o
+ .debug_ranges  0x000005b0       0xd8 ..\obj\tasks.o
+ .debug_ranges  0x00000688       0x18 ..\obj\egoera_makina.o
+ .debug_ranges  0x000006a0       0x60 ..\obj\interrupt.o
+ .debug_ranges  0x00000700       0x58 ..\obj\rit128x96x4.o
+ .debug_ranges  0x00000758       0x20 ..\obj\keypad.o
+ .debug_ranges  0x00000778       0x18 ..\obj\startup_lm3s.o
+ .debug_ranges  0x00000790       0x30 ..\obj\list.o
+ .debug_ranges  0x000007c0       0x50 ..\obj\syscalls.o
+ .debug_ranges  0x00000810       0x88 ..\obj\ssi.o
+ .debug_ranges  0x00000898       0x80 ..\obj\queue.o
+ .debug_ranges  0x00000918       0x60 ..\obj\port.o
+ .debug_ranges  0x00000978       0x40 ..\obj\croutine.o
+ .debug_ranges  0x000009b8       0x20 ..\obj\cpu.o
+ .debug_ranges  0x000009d8       0x30 ..\obj\console.o
+ .debug_ranges  0x00000a08       0x50 ..\obj\systick.o
+ .debug_ranges  0x00000a58       0x28 ..\obj\heap_1.o
+ .debug_ranges  0x00000a80       0x10 ..\obj\Task_Idle.o
+ .debug_ranges  0x00000a90       0x10 ..\obj\clock.o
+ .debug_ranges  0x00000aa0       0x10 ..\obj\Task_Recibir_Infrarrojos.o
+
+.debug_str      0x00000000     0x3225
+ .debug_str     0x00000000      0x765 ..\obj\Recepcion_Infrarrojos.o
+                                0x824 (size before relaxing)
+ .debug_str     0x00000765       0xc4 ..\obj\pines.o
+                                0x16c (size before relaxing)
+ .debug_str     0x00000829      0x1ea ..\obj\system_lm3s.o
+                                0x27f (size before relaxing)
+ .debug_str     0x00000a13      0x184 ..\obj\core_cm3.o
+                                0x235 (size before relaxing)
+ .debug_str     0x00000b97      0x20c ..\obj\timer.o
+                                0x241 (size before relaxing)
+ .debug_str     0x00000da3       0x65 ..\obj\system_tick.o
+                                 0x83 (size before relaxing)
+ .debug_str     0x00000e08       0x45 ..\obj\main.o
+                                0x142 (size before relaxing)
+ .debug_str     0x00000e4d      0x1a6 ..\obj\framebuffer.o
+                                0x28b (size before relaxing)
+ .debug_str     0x00000ff3      0x492 ..\obj\sysctl.o
+                                0x4f8 (size before relaxing)
+ .debug_str     0x00001485       0x2a ..\obj\timers.o
+                                 0x7d (size before relaxing)
+ .debug_str     0x000014af      0x333 ..\obj\gpio.o
+                                0x3a2 (size before relaxing)
+ .debug_str     0x000017e2       0x91 ..\obj\display.o
+                                 0xb6 (size before relaxing)
+ .debug_str     0x00001873       0xc3 ..\obj\display_RIT.o
+                                0x158 (size before relaxing)
+ .debug_str     0x00001936      0x64c ..\obj\tasks.o
+                                0x750 (size before relaxing)
+ .debug_str     0x00001f82       0x9f ..\obj\egoera_makina.o
+                                0x1e1 (size before relaxing)
+ .debug_str     0x00002021      0x128 ..\obj\interrupt.o
+                                0x1b5 (size before relaxing)
+ .debug_str     0x00002149      0x193 ..\obj\rit128x96x4.o
+                                0x228 (size before relaxing)
+ .debug_str     0x000022dc       0xa9 ..\obj\keypad.o
+                                0x17b (size before relaxing)
+ .debug_str     0x00002385       0xb3 ..\obj\startup_lm3s.o
+                                 0xde (size before relaxing)
+ .debug_str     0x00002438       0xbb ..\obj\list.o
+                                0x1ee (size before relaxing)
+ .debug_str     0x000024f3      0x16c ..\obj\syscalls.o
+                                0x263 (size before relaxing)
+ .debug_str     0x0000265f      0x19d ..\obj\ssi.o
+                                0x20d (size before relaxing)
+ .debug_str     0x000027fc      0x2c1 ..\obj\queue.o
+                                0x466 (size before relaxing)
+ .debug_str     0x00002abd      0x143 ..\obj\port.o
+                                0x1d2 (size before relaxing)
+ .debug_str     0x00002c00      0x26e ..\obj\croutine.o
+                                0x3bd (size before relaxing)
+ .debug_str     0x00002e6e       0x68 ..\obj\cpu.o
+                                 0x86 (size before relaxing)
+ .debug_str     0x00002ed6       0x8b ..\obj\console.o
+                                0x15b (size before relaxing)
+ .debug_str     0x00002f61       0xf0 ..\obj\systick.o
+                                0x127 (size before relaxing)
+ .debug_str     0x00003051       0xbd ..\obj\heap_1.o
+                                0x159 (size before relaxing)
+ .debug_str     0x0000310e       0x50 ..\obj\Task_Idle.o
+                                 0x69 (size before relaxing)
+ .debug_str     0x0000315e       0x59 ..\obj\clock.o
+                                 0x73 (size before relaxing)
+ .debug_str     0x000031b7       0x6e ..\obj\Task_Recibir_Infrarrojos.o
+                                0x201 (size before relaxing)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a ..\obj\Recepcion_Infrarrojos.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b ..\obj\pines.o
+ .comment       0x00000000       0x2b ..\obj\system_lm3s.o
+ .comment       0x00000000       0x2b ..\obj\core_cm3.o
+ .comment       0x00000000       0x2b ..\obj\timer.o
+ .comment       0x00000000       0x2b ..\obj\system_tick.o
+ .comment       0x00000000       0x2b ..\obj\main.o
+ .comment       0x00000000       0x2b ..\obj\framebuffer.o
+ .comment       0x00000000       0x2b ..\obj\sysctl.o
+ .comment       0x00000000       0x2b ..\obj\timers.o
+ .comment       0x00000000       0x2b ..\obj\gpio.o
+ .comment       0x00000000       0x2b ..\obj\display.o
+ .comment       0x00000000       0x2b ..\obj\display_RIT.o
+ .comment       0x00000000       0x2b ..\obj\tasks.o
+ .comment       0x00000000       0x2b ..\obj\egoera_makina.o
+ .comment       0x00000000       0x2b ..\obj\interrupt.o
+ .comment       0x00000000       0x2b ..\obj\rit128x96x4.o
+ .comment       0x00000000       0x2b ..\obj\keypad.o
+ .comment       0x00000000       0x2b ..\obj\startup_lm3s.o
+ .comment       0x00000000       0x2b ..\obj\list.o
+ .comment       0x00000000       0x2b ..\obj\syscalls.o
+ .comment       0x00000000       0x2b ..\obj\ssi.o
+ .comment       0x00000000       0x2b ..\obj\queue.o
+ .comment       0x00000000       0x2b ..\obj\port.o
+ .comment       0x00000000       0x2b ..\obj\croutine.o
+ .comment       0x00000000       0x2b ..\obj\cpu.o
+ .comment       0x00000000       0x2b ..\obj\console.o
+ .comment       0x00000000       0x2b ..\obj\systick.o
+ .comment       0x00000000       0x2b ..\obj\heap_1.o
+ .comment       0x00000000       0x2b ..\obj\Task_Idle.o
+ .comment       0x00000000       0x2b ..\obj\clock.o
+ .comment       0x00000000       0x2b ..\obj\Task_Recibir_Infrarrojos.o
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 ..\obj\Recepcion_Infrarrojos.o
+ .ARM.attributes
+                0x00000031       0x31 ..\obj\pines.o
+ .ARM.attributes
+                0x00000062       0x31 ..\obj\system_lm3s.o
+ .ARM.attributes
+                0x00000093       0x31 ..\obj\core_cm3.o
+ .ARM.attributes
+                0x000000c4       0x31 ..\obj\timer.o
+ .ARM.attributes
+                0x000000f5       0x31 ..\obj\system_tick.o
+ .ARM.attributes
+                0x00000126       0x31 ..\obj\main.o
+ .ARM.attributes
+                0x00000157       0x31 ..\obj\framebuffer.o
+ .ARM.attributes
+                0x00000188       0x31 ..\obj\sysctl.o
+ .ARM.attributes
+                0x000001b9       0x31 ..\obj\timers.o
+ .ARM.attributes
+                0x000001ea       0x31 ..\obj\gpio.o
+ .ARM.attributes
+                0x0000021b       0x31 ..\obj\display.o
+ .ARM.attributes
+                0x0000024c       0x31 ..\obj\display_RIT.o
+ .ARM.attributes
+                0x0000027d       0x31 ..\obj\tasks.o
+ .ARM.attributes
+                0x000002ae       0x31 ..\obj\egoera_makina.o
+ .ARM.attributes
+                0x000002df       0x31 ..\obj\interrupt.o
+ .ARM.attributes
+                0x00000310       0x31 ..\obj\rit128x96x4.o
+ .ARM.attributes
+                0x00000341       0x31 ..\obj\keypad.o
+ .ARM.attributes
+                0x00000372       0x31 ..\obj\startup_lm3s.o
+ .ARM.attributes
+                0x000003a3       0x31 ..\obj\list.o
+ .ARM.attributes
+                0x000003d4       0x31 ..\obj\syscalls.o
+ .ARM.attributes
+                0x00000405       0x31 ..\obj\ssi.o
+ .ARM.attributes
+                0x00000436       0x31 ..\obj\queue.o
+ .ARM.attributes
+                0x00000467       0x31 ..\obj\port.o
+ .ARM.attributes
+                0x00000498       0x31 ..\obj\croutine.o
+ .ARM.attributes
+                0x000004c9       0x31 ..\obj\cpu.o
+ .ARM.attributes
+                0x000004fa       0x31 ..\obj\console.o
+ .ARM.attributes
+                0x0000052b       0x31 ..\obj\systick.o
+ .ARM.attributes
+                0x0000055c       0x31 ..\obj\heap_1.o
+ .ARM.attributes
+                0x0000058d       0x31 ..\obj\Task_Idle.o
+ .ARM.attributes
+                0x000005be       0x31 ..\obj\clock.o
+ .ARM.attributes
+                0x000005ef       0x31 ..\obj\Task_Recibir_Infrarrojos.o
+ .ARM.attributes
+                0x00000620       0x29 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000649       0x29 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000672       0x29 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000069b       0x29 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strncpy.o)
+
+.debug_frame    0x00000000     0x256c
+ .debug_frame   0x00000000      0x36c ..\obj\Recepcion_Infrarrojos.o
+ .debug_frame   0x0000036c       0x6c ..\obj\pines.o
+ .debug_frame   0x000003d8       0x4c ..\obj\system_lm3s.o
+ .debug_frame   0x00000424      0x280 ..\obj\core_cm3.o
+ .debug_frame   0x000006a4      0x2a0 ..\obj\timer.o
+ .debug_frame   0x00000944       0x30 ..\obj\system_tick.o
+ .debug_frame   0x00000974       0x30 ..\obj\main.o
+ .debug_frame   0x000009a4       0xe0 ..\obj\framebuffer.o
+ .debug_frame   0x00000a84      0x498 ..\obj\sysctl.o
+ .debug_frame   0x00000f1c      0x3d8 ..\obj\gpio.o
+ .debug_frame   0x000012f4       0x68 ..\obj\display.o
+ .debug_frame   0x0000135c       0x6c ..\obj\display_RIT.o
+ .debug_frame   0x000013c8      0x31c ..\obj\tasks.o
+ .debug_frame   0x000016e4       0x50 ..\obj\egoera_makina.o
+ .debug_frame   0x00001734      0x140 ..\obj\interrupt.o
+ .debug_frame   0x00001874      0x14c ..\obj\rit128x96x4.o
+ .debug_frame   0x000019c0       0x74 ..\obj\keypad.o
+ .debug_frame   0x00001a34       0x48 ..\obj\startup_lm3s.o
+ .debug_frame   0x00001a7c       0x9c ..\obj\list.o
+ .debug_frame   0x00001b18      0x108 ..\obj\syscalls.o
+ .debug_frame   0x00001c20      0x1d8 ..\obj\ssi.o
+ .debug_frame   0x00001df8      0x1e4 ..\obj\queue.o
+ .debug_frame   0x00001fdc      0x110 ..\obj\port.o
+ .debug_frame   0x000020ec       0xf0 ..\obj\croutine.o
+ .debug_frame   0x000021dc       0x40 ..\obj\cpu.o
+ .debug_frame   0x0000221c       0xac ..\obj\console.o
+ .debug_frame   0x000022c8       0xf8 ..\obj\systick.o
+ .debug_frame   0x000023c0       0x7c ..\obj\heap_1.o
+ .debug_frame   0x0000243c       0x2c ..\obj\Task_Idle.o
+ .debug_frame   0x00002468       0x2c ..\obj\clock.o
+ .debug_frame   0x00002494       0x30 ..\obj\Task_Recibir_Infrarrojos.o
+ .debug_frame   0x000024c4       0x30 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x000024f4       0x2c c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+ .debug_frame   0x00002520       0x20 c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00002540       0x2c c:/apps/coide/gcc/sourcery g++ lite/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strncpy.o)
